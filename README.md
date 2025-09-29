@@ -1,6 +1,6 @@
 # Hi, I'm Keegan! 👋
 
-I am a senior in Highschool currently taking an online course on the coding language, Python. I have learned a couple other languages as well that I have been able to transition over into this new class.
+I am a senior in High School currently taking an online course on the coding language, Python. I have learned a couple other languages as well that I have been able to transition over into this new class.
 
 ![keejuff26's Stats](https://github-readme-stats.vercel.app/api?username=keejuff26&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
