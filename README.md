@@ -1,6 +1,6 @@
 # Hi, I'm Keegan! 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a senior in Highschool currently taking an online course on the coding language, Python. I have learned a couple other languages as well that I have been able to transition over into this new class.
 
 ![keejuff26's Stats](https://github-readme-stats.vercel.app/api?username=keejuff26&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
@@ -10,7 +10,7 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 - Plan to go to 4 years college for some sort of engineering degree.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/iconspy,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,vscode)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
